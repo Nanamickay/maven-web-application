@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>United Core System Releases Nexus Repository</name>
-	      <url>http://100.25.104.18:8081/repository/zelle-releases/</url>
+	      <url>http://44.210.142.238:8081/repository/Test-zelle-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>United Core System Snapshot Nexus Repository </name>
-	      <url> http://100.25.104.18:8081/repository/zelle-snapshot/</url>
+	      <url> http://44.210.142.238:8081/repository/Test-zelle-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
